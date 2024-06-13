@@ -26,10 +26,7 @@ function Porto(){
     <span>16/04/2002</span><br /><br />
     <span className='font-bold'>Address:</span>
     <span>Gaba kansanga</span><br /><br />
-    <span className='font-bold'>Email:</span>
-    <span><a href="">marvintomusange@gmail.com</a></span><br /><br />
-    <span className='font-bold'>Phone:</span>
-    <span>0757671763</span>
+    
 
 <div className='text-3xl font-extrabold text-yellow-700 mb-6'>23 <span className='text-white'>Projects Complete</span></div>
 <button className='p-3 mb-6 bg-yellow-600 rounded-full text-black transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-white'><NavLink to="/cv">DOWNLOAD CV</NavLink></button>

@@ -5,10 +5,10 @@ function Port (){
   :'text-white hover:border-b border-yellow-600 hover:text-yellow-600 rounded-md px-3 py-2'
     return(
 
-<div className="bg-black">
+<div className="bg-black sticky top-0 z-50">
  <nav className=" border-b border-yellow-500">
        <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-">
-         <div className="flex h-20 items-center justify-between">
+         <div className="flex h-20 items-center justify-between ">
            <div
             className="flex flex-1 items-center justify-center md:items-stretch md:justify-start">
                 <div className="md:ml-auto">
