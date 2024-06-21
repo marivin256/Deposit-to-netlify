@@ -19,7 +19,7 @@ function Port (){
                 alt="Marvitech logo"
               />
               <h1 className="hidden md:block text-white text-4xl font-bold ml-2"
-                >Marvi<span className="text-yellow-600">Tech</span></h1>
+                >Marvi<span className="text-yellow-500">Tech</span></h1>
               
             </NavLink>
                 <div className="md:ml-auto">
