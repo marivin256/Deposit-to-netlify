@@ -26,23 +26,23 @@ function Port (){
               <div className="flex space-x-2">
                 <NavLink
                   to="/"
-                  className={linkClass}
-                  >Home</NavLink>
+                  className={linkClass}>
+                  Home</NavLink>
                 
                 <NavLink
                   to="/about"
-                  className={linkClass}
-                  >About</NavLink>
+                  className={linkClass}>
+                  About</NavLink>
                 
                 <NavLink
                   to="/services"
-                  className={linkClass}
-                  >Services</NavLink>
+                  className={linkClass}>
+                  Services</NavLink>
                 
                 <NavLink
                   to="/skills"
-                  className={linkClass}
-                  >Skills</NavLink>
+                  className={linkClass}>
+                  Skills</NavLink>
                 
                 
                
