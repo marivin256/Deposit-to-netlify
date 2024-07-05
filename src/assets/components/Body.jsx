@@ -6,7 +6,7 @@ function Body(){
     return(
         <div className='bg-black'>
         <div className='flex flex-col lg:flex-row justify-between mb-4 '>
-        <img src={portimg} alt="image" id='pic' className='float-right rounded-full mb-6 mt-3'/>
+        <img src={portimg} alt="image" id='pica' className='float-right rounded-full mb-6 mt-3'/>
 
 <div className="text-white mt-20 px-6 max-w-xl">
  <div className="  mx-auto max-w-8xl px-2 sm:p-6 lg:px-8"> 
